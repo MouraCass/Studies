@@ -1,7 +1,17 @@
 #Arquitetura ServerLess(FaaS/BaaS/CaaS)
+Amplamente utilizada na tecnologia:
+- Processamento Computacional;
+- Armazenamento;
+- Proxy para APIs(API Gateway);
+- Orquestração
+- Analytics e Monitoramento;
+- Inteligência Artificial; 
+- Machine Learning;
+- DevOps;
+- Integração de Aplicativos;
 
-É um modelo de execução de códigos utilizando
-um provedor CLOUD(AWS, AZURE, Google Cloud, IBM Cloud, Oracle);
+
+(AWS, AZURE, Google Cloud, IBM Cloud, Oracle)
 
 Vantagens: 
 1° Não é mais necessário ficar gerenciando servidores
