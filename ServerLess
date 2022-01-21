@@ -1,0 +1,50 @@
+#Arquitetura ServerLess(FaaS/BaaS/CaaS)
+
+É um modelo de execução de códigos utilizando
+um provedor CLOUD(AWS, AZURE, Google Cloud, IBM Cloud, Oracle);
+
+Vantagens: 
+1° Não é mais necessário ficar gerenciando servidores
+os provedores fazem isto pelo cliente.
+Não existirá tempo de execução para instalar, manter ou
+administrar.
+
+2° É possível dimensionar automaticamente infra,
+ajustando capacidade por meio da alteração de consumo,
+taxa de transferência, memória, processamento,
+ao invés de ter servidores sub ou mega utilizados,
+paga o que utiliza.
+
+2.1- Geralmente o pagamento é feito a partir de taxas
+de tranferência ou duração de execução.
+
+3- Alta Disponibilidade de forma automatizada,
+É possível trabalhar com vários times de criação
+onde cada um poderá trabalhar com sua linguagem favorita
+
+Deploy - Continuous Delivery(CI)/Continuous Integration(CD)
+
+-Function as a Service(FaaS)
+1° Os códigos de uma aplicação são executados
+através de funções na nuvem, individualmente
+
+-BackEnd as a Service(BaaS)
+
+1°Google FireBase: é possível criar toda infra
+de dados e também execução de códigos, sem
+precisar ficar provisionando servidores para
+isso.
+
+2° Amazon RDS, Google OAuth, Etherium(Blockchain)
+
+
+-Containers as a Service(CaaS):
+1° Estratégia de Containirzação da Infraestrutura
+de baixo custo da Nuvem.
+
+2° Docker- Plataforma que criar
+e desenvolve ambientes isolados, onde
+é possível empacotar em containers um ambientes
+completo autocontido, para a execução de uma
+aplicação, tornando ele portável e compatível
+com qualquer provedor de Nuvem.
