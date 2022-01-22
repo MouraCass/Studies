@@ -52,9 +52,9 @@ isso.
 1° Estratégia de Containirzação da Infraestrutura
 de baixo custo da Nuvem.
 
-2° Docker- Plataforma que criar
+2° Docker- Plataforma que cria
 e desenvolve ambientes isolados, onde
-é possível empacotar em containers um ambientes
+é possível empacotar em containers um ambiente
 completo autocontido, para a execução de uma
 aplicação, tornando ele portável e compatível
 com qualquer provedor de Nuvem.
