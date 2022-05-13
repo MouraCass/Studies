@@ -70,15 +70,16 @@
 
 - Header Params - Token, etc
 
-- Query Params - Chave, Valor e Separação(&)  
+- Query Params - Chave, Valor e Separação(&), Paginação / Filtro de Busca   
    http://urlexemplo.com/products?page=2&limit=20  
    Nesta URL exemplo:  
     Chave = page / limit  
     Valor = 2 / 20  
     Separação = &  
       
-- Route Params - parâmetros que vão em meio a rota
- http://urlexemplo.com/products/{id}
+- Route Params - Utilizado para Identificar um recurso, editar/deletar/buscar.
+Parâmetros vão em meio a rota
+ http://urlexemplo.com/products/{id} - 
 
 - Body Params
 
