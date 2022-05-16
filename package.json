@@ -1,0 +1,24 @@
+{
+  "name": "studies",
+  "version": "1.0.0",
+  "description": "The objective of this repository is take notes about technology and studies in general.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MouraCass/Studies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MouraCass/Studies/issues"
+  },
+  "homepage": "https://github.com/MouraCass/Studies#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
